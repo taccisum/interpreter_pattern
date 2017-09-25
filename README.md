@@ -1,0 +1,1 @@
+[解释器模式实践](https://taccisum.github.io/2017/09/25/%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F/)
